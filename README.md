@@ -26,6 +26,7 @@ julia:
 
 ### How to find the WSL2 VM IP address?
 <details>
+  
 `ip addr | grep eth0` then look for value under `inet`
 
 See https://docs.microsoft.com/en-us/windows/wsl/compare-versions
