@@ -39,10 +39,10 @@ See https://docs.microsoft.com/en-us/windows/wsl/compare-versions
 `netsh interface portproxy add v4tov4 listenport=8081 listenaddress=0.0.0.0 connectport=8081 connectaddress=172.27.216.79`
 
 **to delete**
-``netsh interface portproxy add v4tov4 listenport=8081 listenaddress=0.0.0.0 connectport=8081 connectaddress=172.27.216.79`
+`netsh interface portproxy add v4tov4 listenport=8081 listenaddress=0.0.0.0 connectport=8081 connectaddress=172.27.216.79`
 </details>
 
-### How to get plotting and electron.jl working on WSL2?
+### How to get plotting and Electron.jl working on WSL2?
 <details>
 
 Check this https://github.com/microsoft/WSL/issues/2855
