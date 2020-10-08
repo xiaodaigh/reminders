@@ -34,6 +34,7 @@ See https://docs.microsoft.com/en-us/windows/wsl/compare-versions
 
 ### How to let the WSL2 vm connect to local host
 <details>
+  
 **To add**
 `netsh interface portproxy add v4tov4 listenport=8081 listenaddress=0.0.0.0 connectport=8081 connectaddress=172.27.216.79`
 
@@ -43,6 +44,7 @@ See https://docs.microsoft.com/en-us/windows/wsl/compare-versions
 
 ### How to get plotting and electron.jl working on WSL2?
 <details>
+
 Check this https://github.com/microsoft/WSL/issues/2855
 
 It says
