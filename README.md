@@ -1,5 +1,6 @@
 ### How to set up CI for Julia
 
+<details>
 From @oxinabox
 
 The TravisCI docs are basically correct
@@ -24,7 +25,7 @@ Travis CI Tutorial
 docs.travis-ci.comdocs.travis-ci.com
 Travis CI Documentation
 Building a Julia Project
-
+</details>
 
 ### How to find the WSL2 VM IP address?
 <details>
