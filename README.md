@@ -1,3 +1,7 @@
+### How to set up Julia on android
+
+https://discourse.julialang.org/t/using-julia-on-android-with-userland/58498?u=xiaodai
+
 ### How to set up CI for Julia
 
 <details>
